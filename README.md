@@ -1,7 +1,8 @@
 # Hola <a href="https://linkedin.com/in/sebastianbl" target="_blank" rel="noreferrer"> <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png" alt="cat-happy" width="32" height="32"/> </a>, mi nombre es Sebastian Tovar
 
 
-![https://github.com/Deadb07/](https://i.ibb.co/G9QgWcK/readme.png)
+![https://github.com/Deadb07/](https://i.postimg.cc/8zMx0nmT/readme.png)
+
 <h3 align="center">Front-end developer and learning Back-end</h3>
 
 Soy ingeniero de sistemas y desarrollador web enfocado en Frontend aprendiendo Backend para lograr ser un fullstacks completo aunque es un camino largo estoy constantemente capacitandome para ser un mejor profesional.Soy alguien enfocado en lograr sus objetivos y trabajos ya sea individual o trabajando en equipo, mi modo de ser es siempre responsable y autodidacta. Mi objetivo es entrar a trabajar como desarrollador, adquirir toda la experiencia y conocimiento que pueda para lograr destacar en esta area que amo y me apasiona del desarrollo.
