@@ -5,7 +5,7 @@
 
 <h3 align="center">Front-end developer and learning Back-end</h3>
 
-Soy ingeniero de sistemas y desarrollador web enfocado en Frontend aprendiendo Backend para lograr ser un fullstacks completo aunque es un camino largo estoy constantemente capacitandome para ser un mejor profesional.Soy alguien enfocado en lograr sus objetivos y trabajos ya sea individual o trabajando en equipo, mi modo de ser es siempre responsable y autodidacta. Mi objetivo es entrar a trabajar como desarrollador, adquirir toda la experiencia y conocimiento que pueda para lograr destacar en esta area que amo y me apasiona del desarrollo.
+Soy ingeniero de sistemas y desarrollador web enfocado en Frontend aprendiendo Backend para lograr ser un full-stack completo, aunque es un camino largo estoy constantemente capacitándome para ser un mejor profesional. Soy alguien enfocado en lograr sus objetivos y trabajos ya sea individual o trabajando en equipo, mi modo de ser es siempre responsable y autodidacta. Mi objetivo es entrar a trabajar como desarrollador, adquirir toda la experiencia y conocimiento que pueda para lograr destacar en esta área que amo y me apasiona del desarrollo.
 
 
 - 👨🏾‍🏫 Aprendiendo **Bootstrap,Angular, React, vue.js**
@@ -18,7 +18,7 @@ Soy ingeniero de sistemas y desarrollador web enfocado en Frontend aprendiendo B
 <a href="https://twitter.com/deadb07"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
 📫 Email: **jsebastiantovar@gmail.com**
-📄 My CV (Spanish): [Hoja de vida](https://drive.google.com/file/d/10SI3mtxnfKp2OrWYXO3qMvWIRVZh6ntO/view)
+📄 My CV (Spanish): [Hoja de vida](https://drive.google.com/file/d/1rRLhNfl-Ph2Zf1THnyASh1Z1OakvWstY/view)
 
 </p>
 
